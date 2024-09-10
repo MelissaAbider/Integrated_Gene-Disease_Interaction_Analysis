@@ -28,7 +28,7 @@ Ce projet offre une analyse complète des interactions entre gènes et maladies,
 
 5. **Analyse Pilotée par l'Utilisateur**
    - Permet à l'utilisateur de choisir un numéro de cluster spécifique.
-   - Récupère toutes les entrées jusqu'au cluster choisi.
+   -  Récupère tous les textes correspondant au numéro de cluster sélectionné.
 
 6. **Génération de Résumé basée sur RAG**
    - Applique un modèle de Génération Augmentée par Récupération (RAG) aux textes sélectionnés.

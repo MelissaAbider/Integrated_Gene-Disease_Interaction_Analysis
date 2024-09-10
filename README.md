@@ -49,4 +49,4 @@ Ce projet offre une analyse complète des interactions entre gènes et maladies,
 3. Exécutez le script avec la commande :
     ```bash
     python main.py
-   python main.py
+   

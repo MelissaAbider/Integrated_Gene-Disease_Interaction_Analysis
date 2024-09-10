@@ -42,3 +42,11 @@ Ce projet offre une analyse complète des interactions entre gènes et maladies,
 3. Installez les dépendances en exécutant :
    ```bash
    pip install -r requirements.txt
+## Utilisation
+
+1. Ouvrez un terminal ou une invite de commande.
+2. Naviguez vers le répertoire contenant le fichier main.py.
+3. Exécutez le script avec la commande :
+    ```bash
+    python main.py
+   python main.py
